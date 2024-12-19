@@ -8203,7 +8203,7 @@ a,
 /* Red */
 
 .site-button.red {
-  background-color: #f0526d;
+  background-color: #c21807;
   color: #fff;
 }
 
@@ -17434,3 +17434,4 @@ input[type="radio"]+label:hover:before {
 
 .bg-btn-red{background: #c21807;}
 .bg-btn-red-outline{border-color: #c21807 !important; color:#c21807 !important ;}
+.pricetxt{color:#fff; margin-bottom: 25px; }

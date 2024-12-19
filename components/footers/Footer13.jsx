@@ -86,13 +86,12 @@ export default function Footer13() {
             >
               <div className="icon-bx-wraper bx-style-1 m-b15 p-a30 radius-sm br-col-w1 bg-tpw1">
                 <h5 className="text-white font-weight-300">
-                  Serving in 70+ countries for web, software and mobile app
-                  development
+                Business, E-Commerce, Digital Marketing, Ideas or Just a Coffee
                 </h5>
                 <p>
-                  United States (USA), United Kingdom (UK), Singapore, Kenya,
-                  South Africa Germany, Canada, Australia, Netherlands, Norway,
-                  United Arab Emirates (UAE) , Finland etc.
+                Fuel your ambition with expertise in Business, E-Commerce, and Digital Marketing.
+Spark fresh ideas or simply enjoy a conversation over coffee.
+Let’s turn your vision into reality—one idea at a time!
                 </p>
               </div>
             </div>

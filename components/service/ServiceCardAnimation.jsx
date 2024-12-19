@@ -6,6 +6,7 @@ import Link from "next/link";
 const Card = ({
   title,
   description,
+  price,
   src,
   link,
   color,
@@ -51,12 +52,19 @@ const Card = ({
           >
             <h2 style={{ color: "white" }}>{title}</h2>
             <p>{description}</p>
+            <h5 className="pricetxt">Cost: ₹ {price}</h5>
 
             <Link
               href={link}
               className="site-button outline white outline-2 btnhover11"
             >
-              Read More
+              View Service
+            </Link> &nbsp;
+            <Link
+              href={link}
+              className="site-button btn red btnhover11"
+            >
+              Buy Now
             </Link>
           </div>
 

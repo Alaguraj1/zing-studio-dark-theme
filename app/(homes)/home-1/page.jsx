@@ -62,6 +62,8 @@ export default function page() {
             backgroundColor: "#1a1a1a",
             backgroundImage: "url(/images/element-4.png)",
             backgroundRepeat: "no-repeat",
+            backgroundPosition: "top right",
+           //top:"-60px",
           }}
         >
             <HomeServiceAnimation />

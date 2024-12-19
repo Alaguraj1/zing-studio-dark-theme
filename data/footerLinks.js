@@ -29,8 +29,7 @@ export const footerLinks2 = [
   { href: "/privacy-policy", label: "Privacy Policy" },
   { href: "/portfolio-grid-2", label: "Projects" },
   { href: "/help-desk", label: "Help Desk" },
-  { href: "/shop", label: "Shop" },
-  { href: "/contact-1", label: "Contact" },
+    { href: "/contact-1", label: "Contact" },
   { href: "/portfolio-grid-2", label: "Portfolio" },
   { href: "/team-1", label: "Team" },
 ];
