@@ -68,7 +68,7 @@ export default function Testimonials() {
                     {" "}
                     At Zing Studio, we are driven by a passion for creativity and innovation.
 Our goal is not just to meet expectations but to exceed them, delivering solutions that inspire and empower businesses to stand out in a competitive world.
-From stunning web designs to powerful e-commerce platforms, we blend technology, strategy, and creativity to craft experiences that leave a lasting impression.
+From stunning web designs to powerful e-commerce platforms, we blend technology, strategy, and creativity.
 {/* <br></br>
 We pride ourselves on fostering long-term partnerships, understanding our clients' unique visions, and transforming them into meaningful realities.
 Zing Studio is more than a service provider – we are your collaborators in success, committed to your growth and achievements.
