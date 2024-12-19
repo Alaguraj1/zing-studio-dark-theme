@@ -5,7 +5,7 @@
 .header-nav .nav>li.active>a,
 .header-nav .nav>li.current-menu-item>a {
   background-color: transparent;
-  color: var(--color-primary);
+  color: #c21807;
 }
 
 /*=== Font Size And Font Family ====*/

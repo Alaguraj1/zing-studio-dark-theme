@@ -1,8 +1,8 @@
 /*===================== Premery bg color =====================*/
 [data-theme-color="skin-2-theme"] {
-  --color-primary: #c21807;
+  --color-primary: #1a43bf;
   --color-secondry: #152332;
-  --color-hover: #c21807;
+  --color-hover: #1a43bf;
   --rgba-primary-1: rgba(210, 21, 30, 0.1);
   --rgba-primary-2: rgba(210, 21, 30, 0.2);
   --rgba-primary-3: rgba(210, 21, 30, 0.3);

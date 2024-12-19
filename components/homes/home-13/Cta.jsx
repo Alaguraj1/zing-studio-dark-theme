@@ -6,7 +6,7 @@ export default function Cta() {
       className="section-full call-action wow fadeIn"
       data-wow-duration="2s"
       data-wow-delay="0.3s"
-      style={{ backgroundColor: "#c21807" }}
+      style={{ backgroundColor: "#1a43bf" }}
     >
       <div className="container">
         <div className="row">

@@ -3571,7 +3571,8 @@ blockquote:before {
 ---------------------------------------------------------------*/
 
 .main-bar {
-  background: var(--color-primary);
+  background: rgb(0, 20, 82);
+  background: linear-gradient(90deg, rgba(0, 20, 82, 1) 0%, rgba(6, 37, 130, 1) 35%, rgba(10, 47, 158, 1) 100%);
   width: 100%;
   position: relative;
 }
@@ -3710,7 +3711,7 @@ blockquote:before {
 .header-nav .nav>li.active>a:after {
   content: "";
   height: 5px;
-  background: var(--color-primary);
+  background: #c21807;
   width: calc(100% + 2px);
   position: absolute;
   bottom: 0;
@@ -3725,7 +3726,7 @@ blockquote:before {
 .header-nav .nav>li>a:after {
   content: "";
   height: 5px;
-  background: var(--color-primary);
+  background: #c21807;;
   width: 0;
   position: absolute;
   bottom: 0;
@@ -3738,7 +3739,7 @@ blockquote:before {
 }
 
 .header-nav .nav>li:hover>a {
-  color: var(--color-primary);
+  color: #c21807;
 }
 
 .header-nav .nav>li:hover>a:after {
@@ -4550,7 +4551,7 @@ blockquote:before {
 }
 
 .header-nav .nav>li .sub-menu li a:hover {
-  color: var(--color-primary);
+  color: #c21807;
 }
 
 .nav-dark.header-nav .nav>li .sub-menu li a:hover {
