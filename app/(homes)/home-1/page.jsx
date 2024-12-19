@@ -27,7 +27,7 @@ export default function page() {
           <Hero />
           <div
             className="content-block p-t50 p-b50 "
-            style={{ backgroundColor: "#1e1e1e" }}
+            style={{ backgroundColor: "#1e1e1e", backgroundImage:"url(/images/bg1.png)", backgroundRepeat:"no-repeat" }}
           >
             <ClientSlider />
           </div>
