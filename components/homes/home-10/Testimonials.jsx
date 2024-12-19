@@ -14,7 +14,8 @@ export default function Testimonials() {
 
         <div className="section-head style2 text-center">
           <h2 className="title">Our Vision</h2>
-          <p>Dummy Text</p>
+          {/* <p>Innovating solutions that inspire growth and transform ideas into reality.
+          Driven by excellence, we aim to shape a better digital future.</p> */}
         </div>
 
         {/* <div className="section-head style2 text-center">

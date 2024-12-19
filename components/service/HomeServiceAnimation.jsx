@@ -85,8 +85,7 @@ export default function HomeServiceAnimation() {
       <div className="section-head style2 text-center pt-5 mb-3 homeservice-heading">
         <h2 className="title m-b10">Our Services</h2>
         <p>
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text
+        Our team has rich experience and technical mastery to develop tailor-made, agile solutions offering the best features with enhanced user experience to meet your brand’s objectives. Repute delivers the best solutions to facilitate your customers to have a joyful and memorable digital experience.
         </p>
       </div>{" "}
       {/* <div

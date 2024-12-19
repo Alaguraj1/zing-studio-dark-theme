@@ -17,7 +17,7 @@ export default function Testimonials() {
       <div className="container ">
         <div className="section-head style2 text-center mb-0">
           <h2 className="title">CEO Speaks</h2>
-          <p>Dummy Text</p>
+          <p>Insights, Vision, and Leadership Straight from the Top</p>
         </div>
         <div
           style={{ display: "block" }}
@@ -61,14 +61,18 @@ export default function Testimonials() {
                 className="testimonial-detail wow fadeInUp "
                 data-wow-delay="0.3s"
               >
-                <h4 className="testimonial-name m-t0 m-b5">Testing</h4>
-                <span className="testimonial-position">Sub Heading</span>
+                <h4 className="testimonial-name m-t0 m-b5">Subburaj G</h4>
+                <span className="testimonial-position">Founder and Managing Director</span> 
                 <div className="testimonial-text">
                   <p>
                     {" "}
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s,
+                    At Zing Studio, we are driven by a passion for creativity and innovation.
+Our goal is not just to meet expectations but to exceed them, delivering solutions that inspire and empower businesses to stand out in a competitive world.
+From stunning web designs to powerful e-commerce platforms, we blend technology, strategy, and creativity to craft experiences that leave a lasting impression.
+{/* <br></br>
+We pride ourselves on fostering long-term partnerships, understanding our clients' unique visions, and transforming them into meaningful realities.
+Zing Studio is more than a service provider – we are your collaborators in success, committed to your growth and achievements.
+Together, we innovate, create, and shape the future of digital possibilities. */}
                   </p>
                 </div>
               </div>
