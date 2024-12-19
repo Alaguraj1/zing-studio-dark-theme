@@ -53,7 +53,7 @@ export default function Hero() {
                   <h1>{slide.title}</h1>
                   <p>{slide.description}</p>
                   <Link href={"/portfolio-grid-2"}>
-                    <button className="text-primary">
+                    <button className="text-primary bg-btn-red-outline">
                       {slide.buttonLabel}
                     </button>
                   </Link>

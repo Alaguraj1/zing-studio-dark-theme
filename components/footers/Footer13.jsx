@@ -53,7 +53,7 @@ export default function Footer13() {
                           name="submit"
                           value="Submit"
                           type="submit"
-                          className="site-button btnhover13 radius-no"
+                          className="site-button btnhover13 radius-no bg-btn-red"
                         >
                           SEND
                         </button>

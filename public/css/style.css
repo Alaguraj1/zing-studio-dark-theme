@@ -17431,3 +17431,6 @@ input[type="radio"]+label:hover:before {
     top: 20px
   }
 }
+
+.bg-btn-red{background: #c21807;}
+.bg-btn-red-outline{border-color: #c21807 !important; color:#c21807 !important ;}
