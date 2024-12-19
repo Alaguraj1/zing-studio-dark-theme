@@ -34,7 +34,11 @@ export default function page() {
 
           <div
             className="content-block p-b50 "
-            style={{ backgroundColor: "#1a1a1a", backgroundImage: "url(/images/bg1.png)" }}
+            style={{
+              backgroundColor: "#1a1a1a",
+              backgroundImage: "url(/images/element-1.png)",
+              backgroundRepeat: "no-repeat",
+            }}
           >
             <Testimonials />
           </div>
@@ -52,11 +56,19 @@ export default function page() {
           </div> */}
         </div>
 
-        <div className="content-block" style={{ backgroundColor: "#1a1a1a",  }}>
-          <HomeServiceAnimation />
+        <div
+          className="content-block"
+          style={{
+            backgroundColor: "#1a1a1a",
+            backgroundImage: "url(/images/element-4.png)",
+            backgroundRepeat: "no-repeat",
+          }}
+        >
+            <HomeServiceAnimation />
+         
         </div>
         <Cta />
-          <Footer13 />              
+        <Footer13 />
         {/* <Footer2 contactSection="false" /> */}
       </div>
     </>

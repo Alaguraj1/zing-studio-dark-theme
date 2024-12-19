@@ -63,7 +63,9 @@ export default function Projects2() {
       data-wow-duration="2s"
       data-wow-delay="0.6s"
       style={{
-        background: "linear-gradient(to bottom, #1a1a1a 50%, #1e1e1e 50%)",
+        backgroundColor: "#1a1a1a",
+        backgroundImage: "url(/images/element-3.png)",
+        backgroundRepeat: "no-repeat",
       }}
     >
       <div className="container-fluid">

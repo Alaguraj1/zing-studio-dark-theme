@@ -84,18 +84,26 @@ export default function HomeServiceAnimation() {
           Lorem Ipsum is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the industry's standard dummy text
         </p>
-      </div>
-      <main className="main container">
-        {projects.map((project, i) => (
-          <Card
-            key={project.id}
-            {...project}
-            i={i}
-            activeCard={activeCard}
-            cardRef={(el) => (cardRefs.current[i] = el)}
-          />
-        ))}
-      </main>
+      </div>{" "}
+      {/* <div
+        style={{
+          backgroundImage: "url(/images/element-5.png)",
+          backgroundRepeat: "no-repeat",
+        }}
+      > */}
+        <main className="main container">
+          {" "}
+          {projects.map((project, i) => (
+            <Card
+              key={project.id}
+              {...project}
+              i={i}
+              activeCard={activeCard}
+              cardRef={(el) => (cardRefs.current[i] = el)}
+            />
+          ))}
+        </main>
+      {/* </div> */}
     </>
   );
 }

@@ -8,8 +8,8 @@ export default function Testimonials() {
     <div
       className="section-full content-inner-2 wow fadeIn"
       style={{
-        backgroundImage: "url(/images/background/map-bg1.png)",
-        backgroundColor: "#1e1e1e",
+        backgroundImage: "url(/images/element-2.png)",
+        backgroundColor: "#1e1e1e", backgroundRepeat:"no-repeat"
       }}
       data-wow-duration="2s"
       data-wow-delay="0.6s"
