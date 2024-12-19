@@ -27,7 +27,7 @@ export default function page() {
           <Hero />
           <div
             className="content-block p-t50 p-b50 "
-            style={{ backgroundColor: "#1e1e1e", backgroundImage:"url(/images/bg1.png)", backgroundRepeat:"no-repeat" }}
+            style={{ backgroundColor: "#1e1e1e", backgroundImage:"url(/images/bg1.png)", backgroundRepeat:"no-repeat", backgroundPosition:"center, center",  }}
           >
             <ClientSlider />
           </div>
@@ -59,7 +59,7 @@ export default function page() {
         <div
           className="content-block"
           style={{
-            backgroundColor: "#1a1a1a",
+            backgroundColor: "#1e1e1e",
             backgroundImage: "url(/images/element-4.png)",
             backgroundRepeat: "no-repeat",
             backgroundPosition: "top right",

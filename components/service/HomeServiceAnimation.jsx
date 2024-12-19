@@ -22,7 +22,7 @@ const projects = [
       price:"85,000",
     src: "images/Home-Page/ecommerce.jpg",
     link: "/e-commerce",
-    color: "#1e1e1e",
+    color: "#1a1a1a",
     animation_delay: "0.6s",
   },
   {
@@ -44,7 +44,7 @@ const projects = [
       price:"75,000",
     src: "images/Home-Page/ecommerce-managment.jpg",
     link: "/e-commerce-management",
-    color: "#1e1e1e",
+    color: "#1a1a1a",
     animation_delay: "0.12s",
   },
 ];

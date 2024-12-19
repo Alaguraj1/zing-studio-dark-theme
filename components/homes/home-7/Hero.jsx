@@ -7,21 +7,21 @@ import "swiper/css";
 const slidesData = [
   {
     backgroundImage:
-      'url("/images/main-slider/slide7-1.jpg") center center no-repeat',
-    subTitle: "Our Latest Item Food Industry",
-    title: "Our Latest Item Food Industry",
+      'url("/images/main-slider/banner-2.jpg") center center no-repeat',
+    subTitle: "Building Scalable, Secure, and User-Friendly Online Stores",
+    title: "E-commerce Development",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    buttonLabel: "VIEW PORTFOLIO",
+      "Empowering your business with seamless eCommerce solutions.From store setup to optimized sales, we’ve got you covered.Grow your online brand and reach customers worldwide.",
+    buttonLabel: "BUY & VIEW SERVICES",
   },
   {
     backgroundImage:
-      'url("/images/main-slider/slide7-2.jpg") center center no-repeat',
-    subTitle: "Our Latest Item Food Industry",
-    title: "Our Latest Item Food Industry",
+      'url("/images/main-slider/banner-1.jpg") center center no-repeat',
+    subTitle: "Beautiful Designs, Seamless Experiences, Results That Matter",
+    title: "Web Development & Design",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    buttonLabel: "VIEW PORTFOLIO",
+      "Crafting stunning, user-friendly websites tailored to your needs.From design to launch, we deliver seamless digital experiences.Your online presence, built to captivate and convert.",
+    buttonLabel: "BUY & VIEW SERVICES",
   },
 ];
 
