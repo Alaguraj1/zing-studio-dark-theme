@@ -10,7 +10,7 @@ const projects = [
       "At Zing Studio we design websites with your customer in mind, because modern web design is more than just about creating a visually stunning site.",
     src: "images/Home-Page/web-design.jpg",
     link: "/web-design",
-    color: " #c21807",
+    color: " #1a43bf",
     animation_delay: "0.3s",
   },
   {
@@ -30,7 +30,7 @@ const projects = [
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since...",
     src: "images/Home-Page/digital-marketing.jpg",
     link: "/digital-marketing",
-    color: " #c21807",
+    color: " #1a43bf",
     animation_delay: "0.9s",
   },
   {
