@@ -106,11 +106,10 @@ export default function Footer13() {
             <div className="col-md-6 col-sm-6 text-left">
               <span>
                 Copyright ©{" "}
-                <span className="current-year">{new Date().getFullYear()}</span>
-                <a href="https://dexignzone.com/" target="_blank">
-                  DexignZone
-                </a>{" "}
-                . all rights reserved.
+                <span className="current-year">{new Date().getFullYear()}</span>               
+                &nbsp;Zing Studio
+               {" "}
+                . All rights reserved.
               </span>
             </div>
             <div className="col-md-6 col-sm-6 text-right">
@@ -120,7 +119,7 @@ export default function Footer13() {
                     <Link href={`/help-desk`}> Help Desk</Link>
                   </li>
                   <li>
-                    <Link href={`/privacy-policy`}> Refund Policy</Link>
+                    <Link href={`/privacy-policy`}> Privacy Policy</Link>
                   </li>
                 </ul>
               </div>
